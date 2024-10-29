@@ -1,0 +1,18 @@
+##Limites de taxa:
+
+    1.000 RPM (solicitações por minuto): Isso limita o número de solicitações (ou seja, consultas ou prompts) que você pode enviar para a API por minuto.
+    4 milhões de TPM (tokens por minuto): Isso limita o número total de tokens que você pode processar por minuto. Um token é uma unidade de texto, aproximadamente equivalente a uma palavra ou parte de uma palavra.
+
+##Preço (ENTRADA):
+
+    $ 1,25 / 1 milhão de tokens (para prompts de até 128K tokens): Este é o custo para processar prompts (ou seja, o texto que você envia para a API) que têm até 128.000 tokens de comprimento.
+    $ 2,50 / 1 milhão de tokens (para prompts mais longos que 128K): Este é o custo para processar prompts que são mais longos que 128.000 tokens.
+
+##Preço (SAÍDA):
+
+    $ 5,00 / 1 milhão de tokens (para prompts de até 128K tokens): Este é o custo para receber a saída (ou seja, o texto gerado) da API para prompts de até 128.000 tokens de comprimento.
+    $ 10,00 / 1 milhão de tokens (para prompts mais longos que 128K): Este é o custo para receber a saída da API para prompts mais longos que 128.000 tokens.
+
+##Dados usados para melhorar nosso produto:
+
+    Não: Isso indica que o serviço não coleta ou usa seus dados para melhorar seu produto.
